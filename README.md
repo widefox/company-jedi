@@ -30,6 +30,7 @@ You can install `company-jedi` with the following command.
     :config
     (add-to-list 'company-backends 'company-jedi)
     )
+```
 
 ## Without use-package
 
