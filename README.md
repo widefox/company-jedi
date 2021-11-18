@@ -23,7 +23,7 @@ You can install `company-jedi` with the following command.
 (el-get-bundle company-jedi :depends (company-mode))
 ```
 
-## Use-package
+#### Use-package
 
 ```el
 (use-package company-jedi
@@ -32,7 +32,7 @@ You can install `company-jedi` with the following command.
     )
 ```
 
-## Without use-package
+#### Without use-package
 
 ```el
 (defun my/python-mode-hook ()
